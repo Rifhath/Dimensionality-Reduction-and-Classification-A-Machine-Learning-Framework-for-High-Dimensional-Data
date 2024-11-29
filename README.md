@@ -1,4 +1,4 @@
-**Dimensionality Reduction and Classification: A Machine Learning Framework for High-Dimensional Data**
+# Dimensionality Reduction and Classification: A Machine Learning Framework for High-Dimensional Data
 
 **Overview**
 
